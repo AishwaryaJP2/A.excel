@@ -6,4 +6,3 @@ Lets make some more changes
 Hey back to you again
 Final edit in this file just a trial and might delete later
 Ok Bye
->>>>>>> feature_branch
